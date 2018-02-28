@@ -1,6 +1,6 @@
 ## Corporate Design (UX) 
 
-Schule für Gestaltung Zürich 2018 |
+Schule für Gestaltung Zürich 2018 
 Christof Täschler
 
 ---
