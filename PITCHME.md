@@ -1,13 +1,14 @@
-# Corporate Design (UX) 
+## Corporate Design (UX) 
 
-Schule für Gestaltung Zürich 2018  
+Schule für Gestaltung Zürich 2018 |
 Christof Täschler
 
 ---
 
 ### Was ist Corporate Design?
 
-- …und was sind die Unterschiede zu Corporate Identity?
+- und was ist Corporate Identity? |
+- w
 
 ---
 
